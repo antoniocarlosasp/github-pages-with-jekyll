@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title:  Introdução à Programação Virtual 
+author: Antonio Carlos de Assis Junior 
+email: cienciateorica@gmail.com
+description:  Um programa é a denominação de um processo , que cria códigos em sequência organizada. Esta técnica constrói algoritmos de padronização expressando instruções que realizam ações calculadas.
+Automatizar e resolver problemas, um(a) programador(a) apresenta soluções criteriosas e de terminação claramente definidas. É a implementação do código-fonte que conceitua o trabalho estruturado de dados, onde a sequência lógica de instruções serve para controlar as informações inseridas pelo usuário.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima 
